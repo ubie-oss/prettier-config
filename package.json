@@ -1,0 +1,14 @@
+{
+  "name": "@ubie-inc/prettier-config",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ubie-inc/prettier-config.git",
+  "author": "Sosuke Suzuki <aosukeke@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"{,**/}*.{js,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
