@@ -1,3 +1,15 @@
 # @ubie-inc/prettier-config
 
-Ubie 社内で使用する [Prettier](https://github.com/prettier/prettier) の設定です。
+## Installation
+
+```
+npm install --dev @ubie-inc/prettier-config
+```
+
+## Usage
+
+Put following `.prettierrc.json` in your project.
+
+```js
+module.exports = require('@ubie-inc/prettier-config');
+```
