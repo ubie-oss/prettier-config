@@ -2,8 +2,8 @@
 
 ## Installation
 
-```
-npm install --dev @ubie-inc/prettier-config
+```shell
+npm install --save-dev @ubie-inc/prettier-config
 ```
 
 ## Usage
