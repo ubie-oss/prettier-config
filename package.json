@@ -1,9 +1,9 @@
 {
-  "name": "@ubie-inc/prettier-config",
+  "name": "@ubie/prettier-config",
   "version": "0.1.0",
   "main": "index.js",
   "repository": "ssh://git@github.com/ubie-inc/prettier-config.git",
-  "author": "Sosuke Suzuki <aosukeke@gmail.com>",
+  "author": "Ubie, Inc.",
   "license": "MIT",
   "scripts": {
     "format": "prettier --write \"{,**/}*.{js,md}\""
