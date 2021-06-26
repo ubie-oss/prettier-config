@@ -9,6 +9,6 @@
     "format": "prettier --write \"{,**/}*.{js,md}\""
   },
   "devDependencies": {
-    "prettier": "^2.3.0"
+    "prettier": "2.3.2"
   }
 }
