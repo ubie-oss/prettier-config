@@ -2,7 +2,7 @@
   "name": "@ubie/prettier-config",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "ssh://git@github.com/ubie-inc/prettier-config.git",
+  "repository": "ssh://git@github.com/ubie-oss/prettier-config.git",
   "author": "Ubie, Inc.",
   "license": "MIT",
   "scripts": {
